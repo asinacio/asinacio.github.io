@@ -52,32 +52,6 @@ Research leadership
 * Co-manager, **SNO+ Scintillator Calibration Campaign** (2024–Present)
 * Co-lead, **Hyper-Kamiokande Optical Calibration Analysis Software** (2023–Present)
 
-Teaching
-======
-
-* Stipendiary Lecturer in Physics
-  * Mansfield College, University of Oxford (2023–2025)
-
-* Nuclear Physics Laboratory Demonstrator
-  * University of Oxford (2023–Present)
-
-* Teaching Assistant, Experimental Physics III
-  * Faculty of Sciences, University of Lisbon (2018–2020)
-
-* Invited Lecturer
-  * Summer Particle Astrophysics Workshop (McDonald Institute, Canada) (2021–2024)
-
-* Undergraduate admissions interviewer
-  * Mansfield College, University of Oxford
-
-Students supervised
-======
-
-* Co-supervision of MPhys research projects
-* Mentoring of PhD, MSc and undergraduate students
-* Supervision of undergraduate summer research internships
-* Technical training in detector calibration, data analysis, neutrino physics and experimental techniques
-
 Awards and fellowships
 ======
 
@@ -146,14 +120,6 @@ Professional service
 * Former Young Members Representative, SNO+ Collaboration Board
 * Former Student Representative, LIP Scientific Council
 
-Outreach
-======
-
-* Oxford Open Doors
-* Royal Society STEM outreach
-* Science communication activities with LIP
-* Mentor in Ciências Alumni Programme
-* Documentary production for the Portuguese Physical Society
 
 Publications
 ======
