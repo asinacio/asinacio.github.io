@@ -142,6 +142,10 @@ $(document).ready(function () {
   const scssLarge = 925;          // pixels, from /_sass/_themes.scss
   const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
 
+  if (!localStorage.getItem("theme")) {
+    localStorage.setItem("theme", "dark");
+  }
+
   // If the user hasn't chosen a theme, follow the OS preference
   setTheme();
   window.matchMedia('(prefers-color-scheme: dark)')
