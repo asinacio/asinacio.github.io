@@ -22,14 +22,15 @@ function determineComputedTheme() {
   if (themeSetting != "system") {
     return themeSetting;
   }
-  return "dark";
+  return browserPref ? "dark" : "light";
 }
 
 // Set the theme on page load or when explicitly called
-const use_theme = theme ||
-  localStorage.getItem("theme") ||
-  $("html").attr("data-theme") ||
-  "dark";
+function setTheme(theme) {
+  const use_theme = theme ||
+    localStorage.getItem("theme") ||
+    $("html").attr("data-theme") ||
+    browserPref;
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
