@@ -1,6 +1,17 @@
 .current-position {
-  border-left: 3px solid #007acc;
-  padding-left: 12px;
+  position: relative;
+  padding-left: 15px;
+}
+
+.current-position::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.4em;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #007acc;
 }
 
 .future-position {
