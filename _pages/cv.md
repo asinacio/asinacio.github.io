@@ -24,7 +24,7 @@ Work experience
 
 * **2025–Present:** UKRI Horizon Europe Guarantee Marie Skłodowska-Curie Postdoctoral Fellow
   * University of Oxford
-  * Project: Novel Approaches for Fundamental Low Energy Neutrino Physics in Liquid Scintillators - NuLS
+  * Project: *Novel Approaches for Fundamental Low Energy Neutrino Physics in Liquid Scintillators - NuLS*
 
 </div>
 
