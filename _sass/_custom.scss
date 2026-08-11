@@ -6,6 +6,12 @@
   padding-bottom: 6px;
 }
 
+/* Dark mode */
+html[data-theme="dark"] .current-position {
+  border-left-color: #66727d;
+  background: #252a2e;
+}
+
 .future-position {
   opacity: 0.55;
 }
