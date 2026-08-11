@@ -22,6 +22,7 @@ Work experience
   * University of Oxford
   * Project: *Novel Approaches for Fundamental Low Energy Neutrino Physics in Liquid Scintillators – NuLS*
 
+
 * **2023–2025:** Royal Society Newton International Fellow
   * University of Oxford
   * Project: *Neutrinoless Double-Beta Decay in SNO+ and Development of Liquid Scintillator Technologies*
