@@ -12,15 +12,15 @@ redirect_from:
 Work experience
 ======
 
+{:.future-position}
 * **Starting 2027:** Junior Researcher
   * LIP Lisbon
   * Appointed through the FCT Individual Call to Scientific Employment Stimulus
 
-<div class="current-position">
+{:.current-position}
 * **2025–Present:** UKRI Horizon Europe Guarantee Marie Skłodowska-Curie Postdoctoral Fellow
   * University of Oxford
   * Project: *Novel Approaches for Fundamental Low Energy Neutrino Physics in Liquid Scintillators – NuLS*
-</div>
 
 * **2023–2025:** Royal Society Newton International Fellow
   * University of Oxford
@@ -44,7 +44,7 @@ Education
 
 * **M.Sc. in Nuclear and Particle Physics**, University of Lisbon, Portugal (2017)
   * Dissertation: *Optical Calibration of the SNO+ Experiment and Sensitivity Studies for the Neutrinoless Double Beta Decay*
-  <a href="https://repositorio.ulisboa.pt/entities/publication/45261782-49be-4318-bde3-b793c5c997a3" class="thesis-link" target="_blank" title="View PhD thesis">
+  <a href="https://repositorio.ulisboa.pt/entities/publication/45261782-49be-4318-bde3-b793c5c997a3" class="thesis-link" target="_blank" title="View dissertation">
     <i class="fas fa-file-pdf"></i>
   </a>
 
