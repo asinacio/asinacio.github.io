@@ -44,97 +44,20 @@ Work experience
   * LIP Lisbon
   * Worked on detector calibration, software development, and experimental neutrino physics.
 
-Research leadership
-======
 
-* Coordinator, **SNO+ Solar Neutrino Working Group** (2023–Present)
-* Leader, **SNO+ PMT Coverage Task Force** (2024–Present)
-* Co-manager, **SNO+ Scintillator Calibration Campaign** (2024–Present)
-* Co-lead, **Hyper-Kamiokande Optical Calibration Analysis Software** (2023–Present)
-
-Awards and fellowships
-======
-
-* UKRI Horizon Europe Guarantee Marie Skłodowska-Curie Postdoctoral Fellowship
-* Royal Society Newton International Fellowship
-* IDPASC Individual PhD Fellowship
-* Ranked **4th nationally** in the FCT Individual Call to Scientific Employment Stimulus (Junior Researcher)
-
-Research interests
-======
-
-* Experimental particle physics
-* Neutrino physics
-* Rare-event searches
-* Detector calibration
-* Liquid scintillator detectors
-* Optical detector modelling
-* Event reconstruction
-* Statistical data analysis
-* Detector R&D
-* Low-background experiments
-
-Skills
-======
-
-### Programming
-
-* C++
-* Python
-* ROOT
-* Bash
-* Git
-
-### Data Analysis
-
-* Statistical inference
-* Signal extraction
-* Monte Carlo simulation
-* Detector modelling
-* Maximum likelihood methods
-
-### Experimental
-
-* Detector calibration
-* Optical calibration
-* PMT characterization
-* Liquid scintillator R&D
-* Data acquisition systems
-
-### Scientific
-
-* Project management
-* Research leadership
-* Student supervision
-* Grant writing
-* Scientific communication
-* International collaborations
-
-Professional service
-======
-
-* Member, SNO+ Code Integrity Committee
-* Internal reviewer for SNO+ analyses and publications
-* Delegate for Royal Society Meeting of Minds
-* Participant, European Strategy for Particle Physics Early Career Researcher Group
-* Former Young Members Representative, SNO+ Collaboration Board
-* Former Student Representative, LIP Scientific Council
 
 
 Publications
 ======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+<div class="archive__item">
 
-Talks
-======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+  <p>
+    <a href="[YOUR_GOOGLE_SCHOLAR_URL](https://scholar.google.com/citations?user=4juhULsAAAAJ&hl=en)" class="btn btn--primary">
+      <i class="fas fa-graduation-cap"></i>&nbsp; Google Scholar
+    </a>
+    <a href="https://inspirehep.net/authors/1863245" class="btn btn--primary">
+    <i class="fas fa-book"></i>&nbsp; INSPIRE-HEP
+    </a>
+  </p>
 
-Teaching
-======
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+</div>
