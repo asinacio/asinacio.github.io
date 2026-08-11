@@ -14,17 +14,17 @@ Work experience
 
 <div class="future-position" markdown="1">
 
-Starting 2027: Junior Researcher
-LIP Lisbon
-Appointed through the FCT Individual Call to Scientific Employment Stimulus
+* **Starting 2027:** Junior Researcher
+  * LIP Lisbon
+  * Appointed through the FCT Individual Call to Scientific Employment Stimulus
 
 </div>
 
 <div class="current-position" markdown="1">
 
-2025–Present: UKRI Horizon Europe Guarantee Marie Skłodowska-Curie Postdoctoral Fellow
-University of Oxford
-Project: Novel Approaches for Fundamental Low Energy Neutrino Physics in Liquid Scintillators - NuLS
+* **2025–Present:** UKRI Horizon Europe Guarantee Marie Skłodowska-Curie Postdoctoral Fellow
+  * University of Oxford
+  * Project: Novel Approaches for Fundamental Low Energy Neutrino Physics in Liquid Scintillators - NuLS
 
 </div>
 
