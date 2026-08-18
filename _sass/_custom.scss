@@ -25,3 +25,40 @@ html[data-theme="dark"] .current-position {
 .thesis-link:hover {
   opacity: 1;
 }
+
+
+.research-section {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin: 30px 0 45px 0;
+}
+
+.research-image {
+  flex: 0 0 42%;
+}
+
+.research-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.research-text {
+  flex: 1;
+}
+
+.research-text p:first-child {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .research-section {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .research-image {
+    width: 100%;
+  }
+}
