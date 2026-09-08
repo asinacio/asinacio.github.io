@@ -68,7 +68,7 @@ html[data-theme="dark"] .current-position {
 }
 
 .research-statement {
-  font-size: clamp(1.8rem, 3.2vw, 2.6rem);
+  font-size: clamp(0.6rem, 2.6vw, 1.3rem);
   line-height: 1.18;
   font-weight: 600;
   letter-spacing: -0.015em;
@@ -77,7 +77,7 @@ html[data-theme="dark"] .current-position {
 }
 
 .research-statement em {
-  font-weight: 200;
+  font-weight: 400;
   color: #777d82;
 }
 
