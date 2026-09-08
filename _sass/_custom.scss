@@ -63,14 +63,26 @@ html[data-theme="dark"] .current-position {
   }
 }
 
-.research-hero h1 {
-  font-size: 1.85em;
-  line-height: 1.25;
-  font-weight: 600;
-  max-width: 800px;
-  color: #555b60;
+.research-hero {
+  margin-top: 3.5rem;
 }
 
-.research-hero h1 em {
+.research-statement {
+  font-size: clamp(1.8rem, 3.2vw, 2.6rem);
+  line-height: 1.18;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  color: #555b60;
+  margin: 0 0 1.5rem;
+}
+
+.research-statement em {
   font-weight: 400;
+  color: #777d82;
+}
+
+.research-lead {
+  max-width: 850px;
+  font-size: 1.1em;
+  line-height: 1.65;
 }
