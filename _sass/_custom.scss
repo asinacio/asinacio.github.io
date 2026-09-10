@@ -755,3 +755,25 @@ html[data-theme="dark"] .research-closing {
 .outreach-bullets strong {
   font-weight: 600;
 }
+
+.outreach-contact {
+  max-width: 800px;
+  margin: 6rem 0 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid #d9dcdf;
+}
+
+.outreach-contact p {
+  margin-bottom: 1.2rem;
+  line-height: 1.6;
+}
+
+.outreach-contact-link {
+  display: inline-flex;
+  align-items: center;
+}
+
+.mail-icon {
+  margin-right: 0.4em;
+  font-size: 0.9em;
+}
