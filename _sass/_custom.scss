@@ -520,3 +520,52 @@ html[data-theme="dark"] .research-closing {
   }
 
 }
+
+.about-photo-strip {
+  display: grid;
+  grid-template-columns: 2.1fr 1fr 1.5fr 0.95fr;
+  gap: 8px;
+
+  height: 260px;
+  margin: 3.5rem 0 2rem;
+}
+
+.about-photo {
+  margin: 0;
+  overflow: hidden;
+  border-radius: 3px;
+}
+
+.about-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+@media screen and (max-width: 768px) {
+  .about-photo-strip {
+    grid-template-columns: 1fr 1fr;
+    height: auto;
+  }
+
+  .about-photo {
+    height: 200px;
+  }
+}
+
+.about-photo-main img {
+  object-position: center center;
+}
+
+.about-photo-detail img {
+  object-position: 50% 40%;
+}
+
+.about-photo-talk img {
+  object-position: 70% center;
+}
+
+.about-photo-poster img {
+  object-position: 55% center;
+}
