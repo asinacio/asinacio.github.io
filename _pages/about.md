@@ -15,7 +15,7 @@ redirect_from:
 
   <p class="about-intro">
     I'm an experimental particle physicist, and I have a particular
-    fascination with things that are <em>there, but are difficult to see.</em>
+    fascination with things that are there, but are difficult to see.
   </p>
 
   <p>
