@@ -41,12 +41,12 @@ redirect_from:
 <div class="about-photo-strip">
 
   <figure class="about-photo about-photo-main">
-    <img src="/images/about-lab.jpg"
+    <img src="/images/about-lab-detail.jpg"
          alt="Working on experimental equipment in the laboratory">
   </figure>
 
   <figure class="about-photo about-photo-detail">
-    <img src="/images/about-lab-detail.jpg"
+    <img src="/images/about-lab.jpg"
          alt="Working on detector equipment in the laboratory">
   </figure>
 
