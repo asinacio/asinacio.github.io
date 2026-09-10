@@ -37,3 +37,31 @@ redirect_from:
   </p>
 
 </div>
+
+<div class="about-photo-strip">
+
+  <figure class="about-photo about-photo-main">
+    <img
+      src="/images/about-lab.jpg"
+      alt="Working on experimental equipment in the laboratory">
+  </figure>
+
+  <figure class="about-photo about-photo-detail">
+    <img
+      src="/images/about-lab-detail.jpg"
+      alt="Working on detector equipment in the laboratory">
+  </figure>
+
+  <figure class="about-photo about-photo-talk">
+    <img
+      src="/images/about-talk.jpg"
+      alt="Presenting at a scientific meeting">
+  </figure>
+
+  <figure class="about-photo about-photo-poster">
+    <img
+      src="/images/about-poster.jpg"
+      alt="Presenting SNO+ research at a poster session">
+  </figure>
+
+</div>
