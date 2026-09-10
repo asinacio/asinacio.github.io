@@ -527,70 +527,98 @@ html[data-theme="dark"] .research-closing {
 
 .about-photo-strip {
   display: grid !important;
-  grid-template-columns: 2fr 1fr 1.5fr 1fr;
-  gap: 8px;
+  grid-template-columns: 2fr 1fr 1.5fr 1fr !important;
+  gap: 8px !important;
 
-  width: 100%;
-  height: 260px;
+  width: 100% !important;
+  height: 280px !important;
 
-  margin: 3rem 0;
-}
-
-.about-photo-strip .about-photo {
-  margin: 0;
-  padding: 0;
-
-  width: 100%;
-  height: 260px;
-
-  overflow: hidden;
-  border-radius: 3px;
-}
-
-.about-photo-strip .about-photo img {
-  display: block;
-
-  width: 100%;
-  height: 100%;
-
-  object-fit: cover;
-  margin: 0;
-  padding: 0;
-
-  border: 0;
+  margin: 3rem 0 !important;
+  padding: 0 !important;
 }
 
 
-/* Individual cropping */
+/* Each photo is a grid item */
+
+.about-photo-strip figure.about-photo {
+  display: block !important;
+
+  width: 100% !important;
+  height: 280px !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  overflow: hidden !important;
+  border-radius: 3px !important;
+}
+
+
+/* Images fill their grid cell */
+
+.about-photo-strip figure.about-photo img {
+  display: block !important;
+
+  width: 100% !important;
+  height: 100% !important;
+
+  max-width: none !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+
+  object-fit: cover !important;
+}
+
+
+/* Individual image positioning */
 
 .about-photo-main img {
-  object-position: center center;
+  object-position: center center !important;
 }
 
 .about-photo-detail img {
-  object-position: 50% 40%;
+  object-position: 50% 40% !important;
 }
 
 .about-photo-talk img {
-  object-position: 65% center;
+  object-position: 65% center !important;
 }
 
 .about-photo-poster img {
-  object-position: 55% center;
+  object-position: 55% center !important;
 }
 
 
-/* Mobile */
+/* =========================================================
+   MOBILE
+   ========================================================= */
 
 @media screen and (max-width: 768px) {
 
   .about-photo-strip {
-    grid-template-columns: 1fr 1fr;
-    height: auto;
+    grid-template-columns: 1fr 1fr !important;
+    height: auto !important;
   }
 
-  .about-photo-strip .about-photo {
-    height: 190px;
+  .about-photo-strip figure.about-photo {
+    height: 200px !important;
+  }
+
+}
+
+
+/* Very small screens */
+
+@media screen and (max-width: 480px) {
+
+  .about-photo-strip {
+    grid-template-columns: 1fr !important;
+  }
+
+  .about-photo-strip figure.about-photo {
+    height: 220px !important;
   }
 
 }
