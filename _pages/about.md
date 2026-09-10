@@ -7,4 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in Physics in 2022 from the Faculty of Sciences of the University of Lisbon (FCUL), where my research focused on detector calibration and low-energy neutrino physics within the SNO+ experiment. Following my doctorate, I joined the University of Oxford as a Royal Society Newton International Fellow, working on neutrino physics, rare-event searches, and liquid scintillator detector technologies. In 2025, I was awarded a UKRI Horizon Europe Guarantee Marie Skłodowska-Curie Postdoctoral Fellowship, continuing my research at Oxford on detector calibration, reconstruction algorithms, and the development of next-generation neutrino detectors. From 2027, I will join LIP Lisbon as a Junior Researcher through the FCT Individual Call to Scientific Employment Stimulus, where I will establish an independent research programme in experimental neutrino physics and detector instrumentation.
+<div class="about-home">
+
+  <p class="about-welcome">
+    Hi! I'm Ana Sofia.
+  </p>
+
+  <p class="about-intro">
+    I'm an experimental particle physicist, and I have a particular
+    fascination with things that are <em>there, but are difficult to see.</em>
+  </p>
+
+  <p>
+    For me, neutrinos are the perfect puzzle: they are everywhere,
+    barely interact, and yet carry an extraordinary amount of information.
+    I like the challenge of figuring out how to find these tiny signals and then convincing myself that what I have found is actually real.
+  </p>
+
+  <p>
+    I'm currently a Marie Skłodowska-Curie Postdoctoral Fellow at the
+    University of Oxford. My work moves between neutrino physics,
+    data analysis, detector development, and the occasional unusual plot
+    made just to see what might be hiding there.
+  </p>
+
+  <p class="about-personal">
+    I enjoy good questions, rigorous answers, exchanging ideas,
+    and helping younger researchers find their own way through a problem.
+  </p>
+
+</div>
