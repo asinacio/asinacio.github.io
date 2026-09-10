@@ -725,3 +725,33 @@ html[data-theme="dark"] .research-closing {
   }
 
 }
+
+/* =========================================================
+   SIMPLE OUTREACH LIST
+   ========================================================= */
+
+.outreach-simple {
+  max-width: 900px;
+  margin: 3rem 0 5rem;
+}
+
+.outreach-simple h2 {
+  font-size: 1.05em;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+.outreach-bullets {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.outreach-bullets li {
+  margin-bottom: 1rem;
+  padding-left: 0.25rem;
+  line-height: 1.6;
+}
+
+.outreach-bullets strong {
+  font-weight: 600;
+}
